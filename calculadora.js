@@ -42,7 +42,4 @@ switch (operacao) {
     mensagem = calculadora.divisao(num1, num2);
     break;
 }
-
-
-
 console.log(mensagem);
